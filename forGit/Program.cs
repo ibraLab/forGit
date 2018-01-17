@@ -10,7 +10,7 @@ namespace forGit
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Branch 1");
         }
     }
 }
